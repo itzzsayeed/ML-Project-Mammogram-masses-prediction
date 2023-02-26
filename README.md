@@ -9,4 +9,6 @@ This is personal project while working with prediction a Mammogram mass is eithe
 * SVM 
 * Neural network.  
 
-Any suggestion regarding this project for its improvement is always welcome. email: saidul.rnd@gmail.com
+While, Logistic Regression and Neural networks performed better than other models we experimented.
+
+Thank you for you time. Any suggestion regarding this project for it's improvement is always welcome. email: saidul.rnd@gmail.com
